@@ -1,0 +1,30 @@
+Document Outline:
+
+(Header)
+<h1>Comp 484
+    <h2>Structuring pages
+
+    (Nav)
+    <ul><li>HTML, HTML Syntax, Structuring Pages, Creating Links, HTML Reference, Next Steps
+        (Main)
+        (Article)
+
+        (Header)
+        <h3>Conveying meaning through structure 
+        
+        (Header)
+        (Section)
+        <h3>Sectioning elements
+        
+        (Header)
+        (Section)
+        <h3>Document Outlines
+            (Aside)
+            <h4>W3C warning
+
+        (Header)
+        (Section)
+        <h3>WAI-ARIA roles
+
+<footer>Content Info
+
